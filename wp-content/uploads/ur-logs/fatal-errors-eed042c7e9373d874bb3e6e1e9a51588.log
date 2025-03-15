@@ -1,0 +1,4 @@
+2025-03-02T09:59:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\main_project\htdocs\mywordpress\wp-content\plugins\elementor\includes\elements\repeater.php on line 4
+
+2025-03-02T10:23:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\main_project\htdocs\mywordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+

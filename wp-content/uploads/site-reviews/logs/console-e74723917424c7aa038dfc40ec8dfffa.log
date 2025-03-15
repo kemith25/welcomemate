@@ -1,0 +1,7 @@
+[2025-03-11 12:30:36] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:112] cache::flushing [all]
+[2025-03-11 13:20:48] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:114] cache::flushing [19]
+[2025-03-11 13:33:02] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:114] cache::flushing [19]
+[2025-03-11 13:34:37] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:112] cache::flushing [all]
+[2025-03-11 13:34:41] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:112] cache::flushing [all]
+[2025-03-11 13:34:45] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:112] cache::flushing [all]
+[2025-03-11 13:35:39] DEBUG [D:\main_project\htdocs\mywordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:114] cache::flushing [19]
